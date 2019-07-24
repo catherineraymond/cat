@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-  int a;
-  cin>>a;
-  if(a<0)
+  int n;
+  cin>>n; //hjdfjg
+  if(n<0)
     cout<<"Invalid";
-  else if (a%2==0)
+  else if (n%2==0)
    cout<<"Even";
   else
   cout<<"Odd";
